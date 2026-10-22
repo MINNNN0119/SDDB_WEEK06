@@ -1,0 +1,9 @@
+git -v
+
+git init
+
+git config user.name = 'MINNN'
+git config user.email = 'bruce20060120@gmail.com'
+
+git add .
+git commit -m 'initializing the folders'
